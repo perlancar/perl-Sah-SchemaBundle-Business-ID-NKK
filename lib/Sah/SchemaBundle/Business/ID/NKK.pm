@@ -1,4 +1,4 @@
-package Sah::Schemas::Business::ID::NKK;
+package Sah::SchemaBundle::Business::ID::NKK;
 
 use strict;
 
